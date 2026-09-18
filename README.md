@@ -7,16 +7,16 @@ Through these modules, I moved past theoretical cloud concepts and directly prac
 **📋 Project Structure & Business Scenarios**
 
 The repository is modeled after 12 distinct business case studies:
-Scenario 1: Setting up reliable static web hosting using decoupled storage endpoints.
-Scenario 2 & 3: Migrating on-premises physical hardware to virtualized infrastructure and managing vertical compute scale.
-Scenario 4: Troubleshooting foundational network architecture, routing paths, and port access.
-Scenario 5: Resolving cross-department network isolation blocks through private routing components.
-Scenario 6: Modernizing relational database operations to reduce administrative overhead and implement high availability.
-Scenario 7: Enforcing strict compliance frameworks and user access control criteria.
-Scenario 8: Architecting serverless, shared file infrastructure for distributed regional offices.
-Scenario 9 & 12: Developing elastic, auto-healing application tiers to survive physical availability zone outages and traffic surges.
-Scenario 10: Engineering end-to-end cloud architecture cost estimates for corporate financial tracking.
-Scenario 11: Implementing schema-less, low-latency key-value stores for massive user analytical data collection.
+- Scenario 1: Setting up reliable static web hosting using decoupled storage endpoints.
+- Scenario 2 & 3: Migrating on-premises physical hardware to virtualized infrastructure and managing vertical compute scale.
+- Scenario 4: Troubleshooting foundational network architecture, routing paths, and port access.
+- Scenario 5: Resolving cross-department network isolation blocks through private routing components.
+- Scenario 6: Modernizing relational database operations to reduce administrative overhead and implement high availability.
+- Scenario 7: Enforcing strict compliance frameworks and user access control criteria.
+- Scenario 8: Architecting serverless, shared file infrastructure for distributed regional offices.
+- Scenario 9 & 12: Developing elastic, auto-healing application tiers to survive physical availability zone outages and traffic surges.
+- Scenario 10: Engineering end-to-end cloud architecture cost estimates for corporate financial tracking.
+- Scenario 11: Implementing schema-less, low-latency key-value stores for massive user analytical data collection.
 
 
 **🧠 Core Skills & Technologies Practiced**
