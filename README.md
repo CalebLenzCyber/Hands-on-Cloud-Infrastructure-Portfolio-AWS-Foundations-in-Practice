@@ -1,13 +1,13 @@
-# Hands-on-Cloud-Infrastructure-Portfolio-AWS-Foundations-in-Practice
-
 🛠️ AWS Cloud Practitioner — Hands-On Training Portfolio
 
 Welcome to my AWS Cloud Practitioner practical training repository. This project documents my completion of comprehensive, scenario-based labs designed to simulate and solve real-world infrastructure challenges using Amazon Web Services (AWS). 
 
 Through these modules, I moved past theoretical cloud concepts and directly practiced architectural design, network configuration, high-availability deployments, security tuning, database administration, and cloud cost optimization.
 
-📋 Project Structure & Business ScenariosThe repository is modeled after 12 distinct business case studies:Scenario 
-1: Setting up reliable static web hosting using decoupled storage endpoints.
+**📋 Project Structure & Business Scenarios**
+
+The repository is modeled after 12 distinct business case studies:
+Scenario 1: Setting up reliable static web hosting using decoupled storage endpoints.
 Scenario 2 & 3: Migrating on-premises physical hardware to virtualized infrastructure and managing vertical compute scale.
 Scenario 4: Troubleshooting foundational network architecture, routing paths, and port access.
 Scenario 5: Resolving cross-department network isolation blocks through private routing components.
